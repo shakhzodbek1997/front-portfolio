@@ -5,7 +5,6 @@ import { motion } from "framer-motion";
 import { AppWrap } from "../../wrapper";
 import { urlFor, client } from "../../client";
 import "./Works.scss";
-import { FaFirstAid } from "react-icons/fa";
 
 const Works = () => {
   const [activeFilter, setActiveFilter] = useState("All");
