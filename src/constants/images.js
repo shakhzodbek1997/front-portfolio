@@ -68,5 +68,5 @@ export default {
   bolt,
   nb,
   skype,
-  spotify,
+  spotify
 };
